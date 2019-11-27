@@ -1,1 +1,2 @@
 This is text I have added to this file
+Another line of test
