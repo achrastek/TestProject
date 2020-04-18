@@ -1,2 +1,3 @@
 This is brian's text file.
 It starts with two lines.
+Add line 3
